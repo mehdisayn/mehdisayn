@@ -12,4 +12,4 @@ If I had to give one piece of advice on carving your own path, and I mean truly 
 Hold the line long enough and you win.
 </em></sub></p>
 
-**[syedmehedihussain.com →](https://syedmehedihussain.com)**
+**[syedmehedihussain.com →](https://syedmehedihussain.codes)**
