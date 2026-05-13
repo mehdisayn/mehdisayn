@@ -1,15 +1,36 @@
-# Syed Mehedi Hussain
+# Hi, I'm Syed Mehedi Hussain 👋
 
-<!-- <p align="center">
-  <img width="400" alt="Affaan Mustafa" src="https://github.com/user-attachments/assets/5ffc9ba5-6436-4fe9-8ba2-75f2cb02900a" />
-</p> -->
+**Builder · Dhaka, Bangladesh**
 
-<p align="center"><sub><em>
-I turned side questing into a modern prestige profession.<br />
-All it took was being cynical about everything except myself, then post-training my own policy to maximize expected return (serendipitous events (luck surface area)) by improving it until probability mass collapsed onto high-value action sequences, with mixed rollouts reserved for exploration.<br />
-That led me to attempt zero-employee companies as a way to build my way out of the permanent underclass, one day at a time.<br />
-If I had to give one piece of advice on carving your own path, and I mean truly your own, it’s this: protect your cogsec. The pendulum swings. The mind decays. They will tug at it, prompt-inject the latest psyop, and try to steer your internal model for you. Don’t let them.<br />
-Hold the line long enough and you win.
-</em></sub></p>
+I build software as a way out of the permanent underclass — one project at a time. I turned side-questing into a prestige profession by protecting my cognitive independence, maximizing high-signal actions, and shipping things that matter.
 
-**[syedmehedihussain.com →](https://syedmehedihussain.codes)**
+> *"Hold the line long enough and you win."*
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** TypeScript · JavaScript · PHP · Python · Java
+
+**Currently working on:** Full-stack web apps, habit-building tools, and zero-employee product experiments.
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [impulse-guard-app](https://github.com/mehdisayn/impulse-guard-app) | App to guard against impulsive decisions | TypeScript |
+| [habit-tracker-1](https://github.com/mehdisayn/habit-tracker-1) | Personal habit tracking system | TypeScript |
+| [e-learning](https://github.com/mehdisayn/e-learning) | E-learning platform | PHP |
+| [ssh-portfolio](https://github.com/mehdisayn/ssh-portfolio) | SSH-accessible terminal portfolio | JavaScript |
+| [papermill-project](https://github.com/mehdisayn/papermill-project) | Paper mill operations simulation | Java |
+| [website-dhakatreasures](https://github.com/mehdisayn/website-dhakatreasures) | Minimal e-commerce site | JavaScript |
+
+---
+
+## 📬 Connect
+
+- 🌐 [syedmehedihussain.codes](https://syedmehedihussain.codes)
+- 💼 [LinkedIn](https://linkedin.com/in/syedmehedihussain)
+- 📧 syedmehedihussain@gmail.com
